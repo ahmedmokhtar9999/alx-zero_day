@@ -1,1 +1,1 @@
-update my readme from my github account
+updating my readme from my github account
